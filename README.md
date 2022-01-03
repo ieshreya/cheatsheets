@@ -4,7 +4,7 @@ A collection of all web development cheatsheets I've made during my learning.
 ```
 🟢 Status: In Progress 
 
-🎨 Total Cheatsheets: 10
+🎨 Total Cheatsheets: 11
 
 
 
@@ -25,6 +25,7 @@ A collection of all web development cheatsheets I've made during my learning.
 - Array methods cheatsheet: [link](https://github.com/ieshreya/cheatsheets/blob/main/JavaScript/Javascript%20array%20methods%20cheatsheet.pdf)
 - Structure of a Ternary Operator: [link](https://github.com/ieshreya/cheatsheets/blob/main/JavaScript/Structure%20of%20JS%20Event%20Listeners.pdf)
 - Structure of JS Event Listeners: [link](https://github.com/ieshreya/cheatsheets/blob/main/JavaScript/Structure%20of%20a%20Ternary%20Operator.pdf)
+- Javascript Primitive Data Types: [link](https://github.com/ieshreya/cheatsheets/blob/main/JavaScript/js%20Primitive%20Data%20Types.pdf)
 
 ## React JS
 - Form handling in react: [link](https://github.com/ieshreya/cheatsheets/blob/main/React/FORM%20HANDLING%20IN%20REACT.pdf)
